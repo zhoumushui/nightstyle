@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_add"
+        android:title="切换模式" />
+    <item
+        android:id="@+id/menu_wallaper"
+        android:title="Wallpaper" />
+    <item
+        android:id="@+id/menu_search"
+        android:title="Search" />
+    <item
+        android:id="@+id/menu_setting"
+        android:title="Settings" />
+    <item
+        android:id="@+id/menu_setting1"
+        android:title="Settings1" />
+    <item
+        android:id="@+id/menu_setting2"
+        android:title="Settings2" />
+    <item
+        android:id="@+id/menu_setting5"
+        android:title="Settings5" />
+</menu>
